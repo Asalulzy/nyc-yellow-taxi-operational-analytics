@@ -1,0 +1,3 @@
+trip_type,total_trips,avg_fare_usd,avg_distance_miles,avg_duration_min,avg_tip_pct
+Non Airport,16648430,24.1,2.64,13.92,21.32
+Airport Trip,1552675,74.62,13.59,36.21,16.77

@@ -1,0 +1,27 @@
+pickup_zone,total_trips,avg_fare_usd,avg_tip_pct
+JFK Airport,870299,80.99,13.73
+LaGuardia Airport,612231,66.34,20.77
+East Elmhurst,41404,65.23,20.41
+N/A,20496,68.31,18.11
+Baisley Park,783,92.37,16.11
+Flushing Meadows-Corona Park,543,88.44,15.66
+Times Sq/Theatre District,455,82.4,17.12
+Midtown Center,343,78.19,22.98
+Long Island City/Hunters Point,343,88.66,14.72
+Murray Hill,321,84.32,26.63
+South Jamaica,297,91.12,15.63
+Jamaica,269,91.84,15.56
+Midtown East,261,77.28,17.63
+Briarwood/Jamaica Hills,165,89.0,16.29
+Sunnyside,162,81.28,15.42
+Midtown North,154,71.41,16.12
+Midtown South,153,79.33,36.23
+Clinton East,144,78.83,15.33
+UN/Turtle Bay South,132,81.26,18.48
+Elmhurst,118,89.84,16.47
+Lincoln Square East,118,67.64,18.9
+Upper East Side South,116,63.4,17.88
+Steinway,114,76.66,16.09
+Upper East Side North,110,62.96,20.03
+Penn Station/Madison Sq West,110,69.16,18.86
+Jackson Heights,105,73.26,15.92

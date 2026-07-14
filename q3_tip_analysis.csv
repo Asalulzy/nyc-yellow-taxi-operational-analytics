@@ -1,0 +1,97 @@
+pickup_hour,payment_method,total_trips,avg_tip_pct
+0,Cash,73393,0.0
+0,Credit Card,426514,24.6
+0,Dispute,4582,0.04
+0,No Charge,2010,0.01
+1,Cash,47008,0.0
+1,Credit Card,284484,24.48
+1,Dispute,3386,0.1
+1,No Charge,1452,0.02
+2,Cash,31316,0.0
+2,Credit Card,184704,25.69
+2,Dispute,2566,0.04
+2,No Charge,1079,0.08
+3,Cash,23150,0.0
+3,Credit Card,117346,24.55
+3,Dispute,1928,0.05
+3,No Charge,885,0.0
+4,Cash,19880,0.0
+4,Credit Card,68533,26.13
+4,Dispute,1545,0.06
+4,No Charge,668,0.0
+5,Cash,23115,0.0
+5,Credit Card,73215,23.36
+5,Dispute,1004,0.0
+5,No Charge,557,0.0
+6,Cash,48708,0.0
+6,Credit Card,193890,32.06
+6,Dispute,1438,0.16
+6,No Charge,1048,0.0
+7,Cash,77917,0.0
+7,Credit Card,407540,27.26
+7,Dispute,2074,0.03
+7,No Charge,1409,0.01
+8,Cash,104420,0.0
+8,Credit Card,571528,23.9
+8,Dispute,2600,0.89
+8,No Charge,1688,0.01
+9,Cash,137636,0.0
+9,Credit Card,631889,24.29
+9,Dispute,3506,0.07
+9,No Charge,2208,0.11
+10,Cash,168613,0.0
+10,Credit Card,670764,24.53
+10,Dispute,4099,0.05
+10,No Charge,2687,0.04
+11,Cash,187022,0.0
+11,Credit Card,725802,24.4
+11,Dispute,4548,0.13
+11,No Charge,2918,0.02
+12,Cash,201990,0.0
+12,Credit Card,786606,24.39
+12,Dispute,5007,0.16
+12,No Charge,3214,0.54
+13,Cash,211497,0.0
+13,Credit Card,809827,24.33
+13,Dispute,5336,0.37
+13,No Charge,3477,0.29
+14,Cash,221535,0.0
+14,Credit Card,877631,24.15
+14,Dispute,5908,0.14
+14,No Charge,3684,0.05
+15,Cash,219916,0.0
+15,Credit Card,897858,25.61
+15,Dispute,6188,0.91
+15,No Charge,3781,0.05
+16,Cash,208477,0.0
+16,Credit Card,912803,26.15
+16,Dispute,6579,0.1
+16,No Charge,3803,0.03
+17,Cash,202027,0.0
+17,Credit Card,1021698,26.65
+17,Dispute,6724,0.11
+17,No Charge,3703,0.01
+18,Cash,198746,0.0
+18,Credit Card,1091065,26.7
+18,Dispute,7211,0.21
+18,No Charge,3847,0.02
+19,Cash,173616,0.0
+19,Credit Card,976519,27.89
+19,Dispute,6617,0.04
+19,No Charge,3464,0.01
+20,Cash,150440,0.0
+20,Credit Card,868395,26.31
+20,Dispute,6176,0.07
+20,No Charge,3111,0.13
+21,Cash,144454,0.0
+21,Credit Card,874760,25.74
+21,Dispute,5971,0.02
+21,No Charge,2992,0.02
+22,Cash,132385,0.0
+22,Credit Card,813447,25.09
+22,Dispute,6032,0.02
+22,No Charge,2850,0.0
+23,Cash,106803,0.0
+23,Credit Card,634646,24.53
+23,Dispute,5467,0.28
+23,No Charge,2550,0.06

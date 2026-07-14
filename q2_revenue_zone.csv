@@ -1,0 +1,11 @@
+pickup_zone,borough,total_trips,total_revenue_usd,revenue_per_hour_usd,rank_efficiency
+Outside of NYC,N/A,2403,211251.23,283.62,1
+Flushing Meadows-Corona Park,Queens,3185,256552.83,207.33,2
+Maspeth,Queens,1154,65293.31,165.17,3
+Long Island City/Hunters Point,Queens,6356,305930.99,157.94,4
+Kew Gardens,Queens,1483,78758.44,148.15,5
+Steinway,Queens,2688,131110.86,145.09,6
+South Ozone Park,Queens,2247,151420.15,142.04,7
+Briarwood/Jamaica Hills,Queens,1623,99437.92,139.09,8
+LaGuardia Airport,Queens,630534,41693841.7,134.97,9
+East Elmhurst,Queens,81597,5042078.92,130.81,10
